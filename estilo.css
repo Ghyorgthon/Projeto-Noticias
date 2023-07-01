@@ -1,12 +1,5 @@
-*{
-    margin:0;
-    padding:0; 
-}
-
-
 body{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
 }
 #container-cab{
     width: 100%;
@@ -14,7 +7,7 @@ body{
     background: #294970 url(imagens/fundo.png) bottom repeat-x;
 }
 #cabecalho{
-    width: 800px;
+    width: 100%;
     margin: auto;
 }
 
